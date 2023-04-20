@@ -49,9 +49,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:backgroundTint="#590DDF"
+        android:backgroundTint="@color/design_default_color_primary"
         android:text="SELECT DATE"
-        android:textColor="@color/btnTextColor"
+        android:textColor="#F8B8A9"
         android:textSize="18sp"
         android:textStyle="bold" />
 
